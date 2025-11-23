@@ -11,7 +11,7 @@ const Navlink = (
       <Link to="/coverage">Coverage</Link>
     </li>
     <li>
-      <Link>About Us</Link>
+      <Link to="/About">About Us</Link>
     </li>
     <li>
       <Link>Pricing</Link>
